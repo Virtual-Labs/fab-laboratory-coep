@@ -10,7 +10,7 @@ edit -->
 <html lang="en">
 
 <head>
-  <title>Sensor Lab</title>
+  <title>FAB laboratory</title>
 </head>
 
 <body>
@@ -25,13 +25,13 @@ edit -->
     <div id="lab-header-logo" class="logo">
       <!-- Enclose the logo image of your lab or write it in 
       text-->
-      <img src="images/logo.jpg" />
+      <img src="images/logo.png" />
     </div>
 
     <div id="lab-header-heading" class="heading">
     <!-- Write the name of your lab and link it to the home page
     of your lab. -->
-      <a href="index.html">Sensor Lab</a>	
+      <a href="index.html">FAB laboratory</a>	
     </div>
 
     <!-- Add any additional element or link you want to add to 
@@ -54,7 +54,7 @@ edit -->
       <!-- You can add a welcome message or title of the 
       experiment enclosed in h1 tag here -->
       <div id="lab-article-heading" class="heading">
-        Welcome to Sensor Lab!
+        Welcome to FAB laboratory!
       </div>
 
       <!-- Add any additional element if required with proper 
@@ -82,7 +82,7 @@ edit -->
       <section id="lab-article-section-1">
         <div id="lab-article-section-1-icon" class="icon">
           <!-- Enclose the icon image for the section. -->
-	  <img src="images/introduction.jpg" />
+	  <img src="images/introduction.png" />
 	</div>
 
 
@@ -111,7 +111,7 @@ edit -->
         
         <div id="lab-article-section-2-icon" class="icon">
           <!-- Enclose the icon image for the section. -->
-	  <img src="images/simulation.jpg" />
+	  <img src="images/content_4.png" />
 	</div>
 
 
@@ -128,7 +128,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">RTD</a> 
+	      <a href="exp1/index.html">Computer Controlled Cutting of wooden object</a> 
 	    </li>
 	  </ul>
 	</div>
@@ -137,7 +137,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Biosensor/index.html">BioSensor</a> 
+	      <a href="exp2/index.html">3D Machining</a> 
 	    </li>
 	  </ul>
 	</div>
@@ -146,7 +146,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Capacitance/index.html">Capacitance</a> 
+	      <a href="exp3/index.html">PCB design & fabrication</a> 
 	    </li>
 	  </ul>
 	</div>
@@ -155,7 +155,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="LinearVariableDifferntialTransformer/index.html">LinearVariableDifferntialTransformer</a> 
+	      <a href="exp4/index.html">Interface & Application Programming</a> 
 	    </li>
 	  </ul>
 	</div>
@@ -165,7 +165,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="MeasurementOfConductivity/index.html">MeasurementOfConductivity</a> 
+	      <a href="exp5/index.html">Digital Fabrication of Flexible Circuit board</a> 
 	    </li>
 	  </ul>
 	</div>
@@ -174,25 +174,16 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Orifice/index.html">Orifice</a> 
+	      <a href="exp6/index.html">3D scanning</a> 
 	    </li>
 	  </ul>
 	</div>
- <div id="lab-article-section-2-content" class="content">
+	<div id="lab-article-section-2-content" class="content">
 	  <ul id="list-of-experiments">
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="PHCalculation/index.html">PHCalculation</a> 
-	    </li>
-	  </ul>
-	</div>
-<div id="lab-article-section-2-content" class="content">
-	  <ul id="list-of-experiments">
-	  
-            <li> 
-	      <!--Link and name of the experiment 1 -->
-	      <a href="StrainGuage/index.html">StrainGuage</a> 
+	      <a href="exp7/index.html">Molding and Casting of Polyurethane parts.</a> 
 	    </li>
 	  </ul>
 	</div>
@@ -201,12 +192,13 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Thermocouple/index.html">Thermocouple</a> 
+	      <a href="exp8/index.html">Digital Fabrication and Project Development</a> 
 	    </li>
 	  </ul>
 	</div>
       </section>
-      </div>	
+      </div>
+	
 
       <!-- An article can have a sidebar that contain related 
       links and additional material (it is optional at this 
