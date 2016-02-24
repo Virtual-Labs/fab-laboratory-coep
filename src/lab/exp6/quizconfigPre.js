@@ -10,11 +10,11 @@ var totalquestions=5
 
 //Enter the solutions corresponding to each question:
 var correctchoices=new Array()
-correctchoices[1]='' //question 1 solution
-correctchoices[2]='' //question 2 solution, and so on.
-correctchoices[3]=''
-correctchoices[4]=''
-correctchoices[5]=''
+correctchoices[1]='a' //question 1 solution
+correctchoices[2]='c' //question 2 solution, and so on.
+correctchoices[3]='c'
+correctchoices[4]='a'
+correctchoices[5]='a'
 
 /////Don't edit beyond here//////////////////////////
 
